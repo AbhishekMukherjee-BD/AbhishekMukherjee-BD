@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · abhishekmukherjee-bd</sub></p>
 <h1>ABHISHEK Mukherjee</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-Stack Engineer & N8N Automation Expert </h2>
 <p>Wanna be TONY STARK....</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
